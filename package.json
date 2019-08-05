@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://Gabrielncosta.github.io/myportfolio",
+  "homepage":"https://gabrielncosta.github.io/myportfolio",
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
