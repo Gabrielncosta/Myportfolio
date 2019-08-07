@@ -1,0 +1,11 @@
+body {
+
+background: #f9fbfd; /* Old browsers */
+background: -moz-linear-gradient(45deg, #f9fbfd 0%, #f9fbfd 13%, #f2f6f8 44%, #eaf0f4 64%, #eaf0f4 64%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, #f9fbfd 0%,#f9fbfd 13%,#f2f6f8 44%,#eaf0f4 64%,#eaf0f4 64%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, #f9fbfd 0%,#f9fbfd 13%,#f2f6f8 44%,#eaf0f4 64%,#eaf0f4 64%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fbfd', endColorstr='#eaf0f4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background: no-repeat, fixed; 
+background-color: red;
+
+}
