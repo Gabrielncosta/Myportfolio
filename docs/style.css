@@ -119,6 +119,7 @@ p {
     main {
         padding: 4em;
         background: white;
+        height: auto;
     }
 
     #avatar {
